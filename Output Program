@@ -1,0 +1,35 @@
+Program akan menghasilkan output hasil perhitungan FPB dan KPK
+Ketika program dijalankan maka akan muncul tampilan pilihan memu
+            ----------- MENU ----------
+            [1] Hitung FPB
+            [2] Hitung KPK
+            [3] Lainnya
+
+Apabila memilih menu satu maka akan diminta menginputkan angka pertama dan angka kedua dan menampilkan hasil FPB dari kedua angka tersebut
+            ----------- MENU ----------
+            [1] Hitung FPB
+            [2] Hitung KPK
+            [3] Lainnya
+            PILIH MENU> 1
+
+            Masukkan angka pertama: 30
+            Masukkan angka kedua: 18
+            FPB dari 30 dan 18 adalah 6
+
+Apabila memilih menu dua maka akan diminta menginputkan angka pertama dan angka kedua dan menampilkan hasil KPK dari kedua angka tersebut
+            ----------- MENU ----------
+            [1] Hitung FPB
+            [2] Hitung KPK
+            [3] Lainnya
+            PILIH MENU> 2
+
+            Masukkan angka pertama: 18
+            Masukkan angka kedua: 4
+            KPK dari 18 dan 4 adalah 3
+
+Apabila memilih menu tiga maka program akan berhenti
+            ----------- MENU ----------
+            [1] Hitung FPB
+            [2] Hitung KPK
+            [3] Lainnya
+            PILIH MENU> 3
